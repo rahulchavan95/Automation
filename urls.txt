@@ -1,0 +1,6 @@
+www.facebook.com
+www.google.com
+www.tecmint.com
+www.github.com
+https://realpython.com/kickstarting-flask-on-ubuntu-setup-and-deployment/
+https://www.ostechnix.com/install-django-web-framework-ubuntu-16-04/
